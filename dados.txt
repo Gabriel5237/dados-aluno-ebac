@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Gabriel Henrique
+-Profissão: Apenas Cursando no momento 
+-Cidade: Lindoia SP
+-O que faz nas horas vaga: Jogo video game
+-Feedback sobre o curso Qualidade de Software: estou adorando o curso o professor e sensacional 
+-Feedback sobre a plataforma de estudo da EBAC: e uma plataforma muito boa tem diversos cursos para fazer
 
 Obrigado!!!
 
